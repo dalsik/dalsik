@@ -48,6 +48,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunabae482@gmail.com)](anmoonsick@gmail.com)
   ![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dalsik)](https://github.com/anuraghazra/github-readme-stats)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalsik&langs_count=4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)﻿
 <!--
 **dalsik/dalsik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
