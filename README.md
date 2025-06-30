@@ -1,5 +1,5 @@
 ### Hi Welcome, i'm Munsik An👋
-# VR / AI Developer
+### VR / AI Developer
 
 ## 👤 About Me
 
@@ -43,7 +43,7 @@
 
 
 
-# 🐱 Contact
+### 🐱 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunabae482@gmail.com)](anmoonsick@gmail.com)
   ![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
