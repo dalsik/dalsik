@@ -1,0 +1,3 @@
+docs/* linguist-vendored
+*.md linguist-documentation
+*.json linguist-generated
