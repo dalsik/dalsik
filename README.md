@@ -4,7 +4,7 @@
 ## 👤 About Me
 
 - 🎓 Undergraduate student at Human-AI Engineering, Sangmyung University, Seoul  
-- 🧪 Research intern at Affective Engineering Lab, Sangmyung University  
+- 🧪 Research intern at Immersive Media Design Lab, Sangmyung University  
 - 🥽 Passionate about Virtual Reality and Artificial Intelligence  
 - 🔗 Interested in combining VR and AI for immersive, intelligent experiences  
 
