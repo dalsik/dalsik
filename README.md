@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=VR%20is%20Future)
+![header](https://capsule-render.vercel.app/api?type=venom&color=A374DB&height=300&section=header&text=VR%20is%20FuturefontColor=000000)
 
 ### Hi Welcome, i'm Munsik An👋
 ### VR / AI Developer
