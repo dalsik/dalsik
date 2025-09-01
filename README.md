@@ -52,7 +52,8 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dalsik&theme=dark)](https://github.com/dalsik/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dalsik&theme=radical)](https://github.com/dalsik/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalsik&layout=compact&theme=onedark)
 
 <!--
 **dalsik/dalsik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
